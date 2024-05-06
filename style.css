@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(224, 56, 84);
+}
+
+button{
+    background-color: rgb(224, 56, 84);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+   
+}
+
+input{
+    background-color: pink;
+    color: rgb(224, 56, 84);
+    border: none;
+}
